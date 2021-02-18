@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer-demo",
+  "version": "0.0.1",
+  "description": "A simple example of how to use puppeteer to retrieve data from websites",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Ledermann <florian.ledermann@tuwien.ac.at>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  }
+}
