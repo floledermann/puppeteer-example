@@ -14,6 +14,8 @@ To run the script, run
 node index.js
 ```
 
-in the project directory. This should create two files, `screenshot.png` and `headlines.txt` in the project directory, and output the text of all headlines on the page to the console.
+in the project directory.
 
-See comments in index.js for explanation.
+This should create two files, `screenshot.png` and `headlines.txt` in the project directory, and output the text of all headlines on the page to the console.
+
+See comments in index.js for further explanation.
