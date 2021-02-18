@@ -1,6 +1,6 @@
 # Example project to get started with puppeteer
 
-To get started, close this repository, then run
+To get started, clone this repository or download the code, then run
 
 ```
 npm install
